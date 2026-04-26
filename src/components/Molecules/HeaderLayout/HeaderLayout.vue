@@ -7,7 +7,7 @@
 </template>
 
 <script setup lang="ts">
-// Boîte commune réutilisable : structure header (barre + slots).
+// Boîte commune réutilisable : structure header (v-app-bar + slots).
 // Pas de logique métier ; le contenu est fourni par le parent (Header Organism ou Header app).
 </script>
 
